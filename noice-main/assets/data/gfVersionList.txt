@@ -1,6 +1,0 @@
-gf
-gf-dark
-gf-car
-gf-car-dark
-gf-christmas
-gf-pixel

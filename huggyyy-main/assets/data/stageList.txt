@@ -1,9 +1,0 @@
-stagec
-stage
-spooky
-philly
-limo
-mall
-mallEvil
-school
-schoolEvil
